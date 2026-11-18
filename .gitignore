@@ -1,0 +1,13 @@
+node_modules/
+bot/node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.systema-store.json
+bot/bot-data.json
+public/systema-telegram-miniapp.zip
+

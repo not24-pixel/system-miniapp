@@ -1,0 +1,8 @@
+{
+  "name": "Система — Трекер Игрока (Telegram Mini App)",
+  "description": "Telegram Bot и Mini App «Система» для целей, привычек, ежедневных заданий, ручного учёта финансов, игровой прокачки и проверяемых штрафных квестов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
